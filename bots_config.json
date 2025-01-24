@@ -1,0 +1,16 @@
+{
+    "bots": [
+        {
+            "token": "MTI5MDQxNjMxODY3MTA5Nzg5Nw.GrTcQl.EPyr43qPlPYMhJfUe5WMJyh49Vblpe9SdrGoXE",
+            "channel": "1223677028168106064"
+        },
+        {
+            "token": "bot2_token",
+            "channel": "channel2_id"
+        },
+        {
+            "token": "bot3_token",
+            "channel": "channel3_id"
+        }
+    ]
+}
