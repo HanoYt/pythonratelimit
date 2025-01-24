@@ -12,6 +12,8 @@ class RateLimiter:
         self.current_requests = 0
         self.last_reset = time.time()
 
+
+
     def is_allowed(self):
         # Si on dépasse le nombre de requêtes autorisées par seconde
         if time.time() - self.last_reset >= 1:
